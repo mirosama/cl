@@ -1,0 +1,59 @@
+.scrollToTop{background-color:#3d5c9e;}
+.scrollToTop:hover,.scrollToTop:focus{background-color:#fff;color:#3d5c9e;border:1px solid #3d5c9e;}
+.navbar-brand > span{color:#3d5c9e;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{color:#000;}
+.navbar-default .navbar-nav > li > a:hover{color:#2da2c8;}
+.slider_btn:hover,.slider_btn:focus{border-color:#2da2c8;color:#2da2c8;}
+.slides-navigation a::before,
+.slides-navigation a::after,
+.slides-navigation .icon-wrap::before,
+.slides-navigation .icon-wrap::after{background:#3d5c9e;}
+.slides-pagination a{border:2px solid #3d5c9e;}
+.heading h2{border-bottom:11px solid #61ba38;}
+.panel-title a:hover{color:#3d569e;}
+.panel-title a span{color:#3d569e;}
+.service_icon{background-color:#3d5c9e;}
+.single_service:hover .service_icon{color:#3d5c9e;border:2px solid #3d5c9e;background-color:#fff;}
+.single_service:hover .service_title{color:#3d569e;}
+.single_service > .service_title:after{background-color:#2da2c8;}
+.heading h3{border-bottom:5px solid #3d569e;}
+.fa-2x{color:#2da2c8;}
+.single_team span{color:#2da2c8;}
+.team_social a:hover,.team_social a:focus{background-color:#2da2c8;}
+.slick-prev, .slick-next{background-color:#3d569e;}
+.single_price .price{background-color:#3d5c9e;}
+.price_btn{background-color:#3d5c9e;border:1px solid #3d5c9e;}
+.price_btn:hover{color:#2da2c8 !important;}
+.business_price{background-color:#3d5c9e !important;}
+.business_price .price_btn{color:#3d5c9e !important;}
+.post_commentbox a:hover, .post_commentbox span:hover{color:#2da2c8;}
+.read_more{color:#2da2c8;}
+.read_more:hover,.read_more:focus{border-bottom:2px solid #2da2c8;}
+.testi_media .media-body span{color:#2da2c8;}
+.testimonial_slider .slick-dots li.slick-active button{background:none repeat scroll 0 0 #2da2c8;}
+.submit_btn{background-color:#3d5c9e;}
+.submit_btn:hover{color:#3d5c9e;border-color:#3d5c9e;}
+.form-control:focus{border-color:#2da2c8;}
+.wagwep-container ul#portfolio-filter a:hover{background-color:#2da2c8;}
+.wagwep-container ul#portfolio-filter li.current a{background:#2da2c8;}
+.single_contact_feaured > i{color:#3d5c9e;}
+.subscr_btn{background-color:#2da2c8;}
+.footer_left > p a{color:#3d5c9e;font-weight:bold;}
+.social_nav li a:hover{color:#2da2c8;border-color:#2da2c8;}
+.panel-default .in{border-color:#2da2c8;border-left:5px solid #2da2c8;}
+.about_slider .slick-dots li.slick-active button:before{color:#2da2c8;}
+.single_blogsidebar > h2{border-bottom:4px solid #2da2c8;}
+.popular_tab .media-body > a:hover,.popular_tab .media-body > a:focus{color:#2da2c8;}
+.cat-item>a:before{border-left:5px solid #2da2c8;}
+.cat-item a:hover,.cat-item a:focus{color:#2da2c8;}
+.tagcloud a:hover,.tagcloud a:focus{background-color:#2da2c8;}
+.postform{border:2px solid #2da2c8;}
+.single_blogsidebar ul li a:hover,.single_blogsidebar ul li a:focus{color:#2da2c8;}
+.pagination li a:hover,.pagination li a:focus{background-color:#2da2c8;}
+.blogdetails_content>h2{color:#2da2c8;}
+.blogdetails_content>ul li:before{background-color:#2da2c8;}
+.previous_nav{border:1px solid #2da2c8;color:#2da2c8;}
+.next_nav{border:1px solid #2da2c8;color:#2da2c8;}
+.next_nav:hover,.previous_nav:hover{background-color:#2da2c8;}
+.similar_post h2 > i{color:#2da2c8;}
+.sociallink_nav li a:hover{color:#2da2c8;border:1px solid #2da2c8;}
